@@ -4,6 +4,8 @@ Collecting classmates' names
 
 No one can guess what it is below,except edit this text.
 没人能猜出下面是啥除非你编辑它。
+
+![Image text](https://github.com/Suruin/Bilibili-Cheers/blob/master/fab23ea7f69a86ca.png?raw=true）
 -------               |--------|
 |                     |        |
 |                     |        | 
