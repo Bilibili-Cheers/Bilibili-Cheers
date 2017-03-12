@@ -3,6 +3,7 @@ using namespace Suruin
 int main()
 {
     Classmate RunSu;
-    Classmate XudongYuan
+    Classmate XudongYuan;
+    Classmate TianleiZhang
     return 0;
 }
