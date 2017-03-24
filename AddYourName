@@ -4,6 +4,7 @@ int main()
 {
     Classmate RunSu;
     Classmate XudongYuan;
-    Classmate TianleiZhang
+    Classmate TianleiZhang;
+    Classmate Wujiaxing;
     return 0;
 }
