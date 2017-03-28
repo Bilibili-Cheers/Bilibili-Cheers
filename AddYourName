@@ -5,6 +5,7 @@ int main()
     Classmate RunSu;
     Classmate XudongYuan;
     Classmate TianleiZhang;
-    Classmate Wujiaxing;
+    Classmate JiaxingWu;
+    Classmate JianZhong;
     return 0;
 }
