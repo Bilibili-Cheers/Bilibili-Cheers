@@ -378,6 +378,10 @@ global times;
 global seconds;
 i=1;
 while i<200
+    if mod(seconds,20)==0
+        load handel;
+        sound(y,Fs);
+    end
     if seconds < 0
          set(handles.dead,'Visible','On');
          set(handles.bilibili,'Visible','On');
