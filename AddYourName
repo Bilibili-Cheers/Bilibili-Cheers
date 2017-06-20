@@ -1,0 +1,13 @@
+﻿#include<2014信息班>
+using namespace Suruin
+int main()
+{
+    Classmate RunSu;
+    Classmate XudongYuan;
+    Classmate TianleiZhang;
+    Classmate JiaxingWu;
+    Classmate JianZhong;
+    Classmate MeiTingLi;
+    Classmate AiruHan;
+    return 0;
+}
