@@ -9,6 +9,6 @@ int main()
     Classmate JianZhong;
     Classmate MeiTingLi;
     Classmate AiruHan;
-    Classmate YiMengYang
+    Classmate YiMengYang;
     return 0;
 }
